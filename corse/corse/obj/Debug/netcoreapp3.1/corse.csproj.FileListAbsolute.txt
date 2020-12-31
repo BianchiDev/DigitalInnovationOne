@@ -1,0 +1,13 @@
+C:\Temp\WS-vs2019\corse\corse\obj\Debug\netcoreapp3.1\corse.AssemblyInfoInputs.cache
+C:\Temp\WS-vs2019\corse\corse\obj\Debug\netcoreapp3.1\corse.AssemblyInfo.cs
+C:\Temp\WS-vs2019\corse\corse\obj\Debug\netcoreapp3.1\corse.csproj.CoreCompileInputs.cache
+C:\Temp\WS-vs2019\corse\corse\bin\Debug\netcoreapp3.1\corse.exe
+C:\Temp\WS-vs2019\corse\corse\bin\Debug\netcoreapp3.1\corse.deps.json
+C:\Temp\WS-vs2019\corse\corse\bin\Debug\netcoreapp3.1\corse.runtimeconfig.json
+C:\Temp\WS-vs2019\corse\corse\bin\Debug\netcoreapp3.1\corse.runtimeconfig.dev.json
+C:\Temp\WS-vs2019\corse\corse\bin\Debug\netcoreapp3.1\corse.dll
+C:\Temp\WS-vs2019\corse\corse\bin\Debug\netcoreapp3.1\corse.pdb
+C:\Temp\WS-vs2019\corse\corse\obj\Debug\netcoreapp3.1\corse.dll
+C:\Temp\WS-vs2019\corse\corse\obj\Debug\netcoreapp3.1\corse.pdb
+C:\Temp\WS-vs2019\corse\corse\obj\Debug\netcoreapp3.1\corse.genruntimeconfig.cache
+C:\Temp\WS-vs2019\corse\corse\obj\Debug\netcoreapp3.1\corse.csprojAssemblyReference.cache

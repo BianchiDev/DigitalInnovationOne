@@ -1,0 +1,13 @@
+C:\Temp\WS-vs2019\Exercíco de Fixação\Exercíco de Fixação\obj\Debug\netcoreapp3.1\Exercíco de Fixação.csprojAssemblyReference.cache
+C:\Temp\WS-vs2019\Exercíco de Fixação\Exercíco de Fixação\obj\Debug\netcoreapp3.1\Exercíco de Fixação.AssemblyInfoInputs.cache
+C:\Temp\WS-vs2019\Exercíco de Fixação\Exercíco de Fixação\obj\Debug\netcoreapp3.1\Exercíco de Fixação.AssemblyInfo.cs
+C:\Temp\WS-vs2019\Exercíco de Fixação\Exercíco de Fixação\obj\Debug\netcoreapp3.1\Exercíco de Fixação.csproj.CoreCompileInputs.cache
+C:\Temp\WS-vs2019\Exercíco de Fixação\Exercíco de Fixação\bin\Debug\netcoreapp3.1\Exercíco de Fixação.exe
+C:\Temp\WS-vs2019\Exercíco de Fixação\Exercíco de Fixação\bin\Debug\netcoreapp3.1\Exercíco de Fixação.deps.json
+C:\Temp\WS-vs2019\Exercíco de Fixação\Exercíco de Fixação\bin\Debug\netcoreapp3.1\Exercíco de Fixação.runtimeconfig.json
+C:\Temp\WS-vs2019\Exercíco de Fixação\Exercíco de Fixação\bin\Debug\netcoreapp3.1\Exercíco de Fixação.runtimeconfig.dev.json
+C:\Temp\WS-vs2019\Exercíco de Fixação\Exercíco de Fixação\bin\Debug\netcoreapp3.1\Exercíco de Fixação.dll
+C:\Temp\WS-vs2019\Exercíco de Fixação\Exercíco de Fixação\bin\Debug\netcoreapp3.1\Exercíco de Fixação.pdb
+C:\Temp\WS-vs2019\Exercíco de Fixação\Exercíco de Fixação\obj\Debug\netcoreapp3.1\Exercíco de Fixação.dll
+C:\Temp\WS-vs2019\Exercíco de Fixação\Exercíco de Fixação\obj\Debug\netcoreapp3.1\Exercíco de Fixação.pdb
+C:\Temp\WS-vs2019\Exercíco de Fixação\Exercíco de Fixação\obj\Debug\netcoreapp3.1\Exercíco de Fixação.genruntimeconfig.cache

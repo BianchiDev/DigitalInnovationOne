@@ -1,0 +1,13 @@
+C:\Temp\WS-vs2019\EstruturaDeComando\EstruturaDeComando\obj\Debug\netcoreapp3.1\EstruturaDeComando.csprojAssemblyReference.cache
+C:\Temp\WS-vs2019\EstruturaDeComando\EstruturaDeComando\obj\Debug\netcoreapp3.1\EstruturaDeComando.AssemblyInfoInputs.cache
+C:\Temp\WS-vs2019\EstruturaDeComando\EstruturaDeComando\obj\Debug\netcoreapp3.1\EstruturaDeComando.AssemblyInfo.cs
+C:\Temp\WS-vs2019\EstruturaDeComando\EstruturaDeComando\obj\Debug\netcoreapp3.1\EstruturaDeComando.csproj.CoreCompileInputs.cache
+C:\Temp\WS-vs2019\EstruturaDeComando\EstruturaDeComando\bin\Debug\netcoreapp3.1\EstruturaDeComando.exe
+C:\Temp\WS-vs2019\EstruturaDeComando\EstruturaDeComando\bin\Debug\netcoreapp3.1\EstruturaDeComando.deps.json
+C:\Temp\WS-vs2019\EstruturaDeComando\EstruturaDeComando\bin\Debug\netcoreapp3.1\EstruturaDeComando.runtimeconfig.json
+C:\Temp\WS-vs2019\EstruturaDeComando\EstruturaDeComando\bin\Debug\netcoreapp3.1\EstruturaDeComando.runtimeconfig.dev.json
+C:\Temp\WS-vs2019\EstruturaDeComando\EstruturaDeComando\bin\Debug\netcoreapp3.1\EstruturaDeComando.dll
+C:\Temp\WS-vs2019\EstruturaDeComando\EstruturaDeComando\bin\Debug\netcoreapp3.1\EstruturaDeComando.pdb
+C:\Temp\WS-vs2019\EstruturaDeComando\EstruturaDeComando\obj\Debug\netcoreapp3.1\EstruturaDeComando.dll
+C:\Temp\WS-vs2019\EstruturaDeComando\EstruturaDeComando\obj\Debug\netcoreapp3.1\EstruturaDeComando.pdb
+C:\Temp\WS-vs2019\EstruturaDeComando\EstruturaDeComando\obj\Debug\netcoreapp3.1\EstruturaDeComando.genruntimeconfig.cache
